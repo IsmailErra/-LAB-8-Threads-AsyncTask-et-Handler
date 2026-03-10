@@ -35,7 +35,7 @@ Test effectué pour confirmer que le **UI Thread** n'est jamais bloqué :
 
 1. Clic sur **Charger image** → chargement démarre en arrière-plan.
 2. Clic immédiat sur **Afficher Toast** pendant le chargement.
-3. ✅ Le Toast apparaît instantanément → l'interface reste fluide.
+3.  Le Toast apparaît instantanément → l'interface reste fluide.
 4. Clic sur **Calcul lourd** → la **ProgressBar** progresse de 0 à 100 via **AsyncTask**.
 
 ---
@@ -44,4 +44,8 @@ Test effectué pour confirmer que le **UI Thread** n'est jamais bloqué :
 
 ## Vidéo de démonstration
 
-[demo_lab8_threads.mp4](demo_lab8_threads.mp4)
+[demo_lab8_threads.mp4](screenshot/1.png)
+[demo_lab8_threads.mp4](screenshot/2.png)
+[demo_lab8_threads.mp4](screenshot/3.png)
+
+
