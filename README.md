@@ -44,8 +44,8 @@ Test effectué pour confirmer que le **UI Thread** n'est jamais bloqué :
 
 ## Vidéo de démonstration
 
-[demo_lab8_threads.mp4](screenshots/1.png)
-[demo_lab8_threads.mp4](screenshots/2.png)
-[demo_lab8_threads.mp4](screenshots/3.png)
+![Détails](AppScreenshots/1.png)
+![Détails](AppScreenshots/2.png)
+![Détails](AppScreenshots/3.png)
 
 
