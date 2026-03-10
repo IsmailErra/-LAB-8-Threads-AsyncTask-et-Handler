@@ -44,8 +44,8 @@ Test effectué pour confirmer que le **UI Thread** n'est jamais bloqué :
 
 ## Vidéo de démonstration
 
-![Détails](AppScreenshots/1.png)
-![Détails](AppScreenshots/2.png)
-![Détails](AppScreenshots/3.png)
+![Détails](screenshots/1.png)
+![Détails](screenshots/2.png)
+![Détails](screenshots/3.png)
 
 
